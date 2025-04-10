@@ -1,3 +1,3 @@
 # generated from colcon_core/shell/template/hook_prepend_value.sh.em
 
-_colcon_prepend_unique_value PYTHONPATH "/home/ben/rob-ws/build/go_kart_controller"
+_colcon_prepend_unique_value PYTHONPATH "/home/ben/Desktop/rob-ws/build/go_kart_controller"

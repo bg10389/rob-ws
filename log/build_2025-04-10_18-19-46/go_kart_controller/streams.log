@@ -1,0 +1,27 @@
+[0.299s] Invoking command in '/home/ben/rob-ws/build/go_kart_controller': PYTHONPATH=/home/ben/rob-ws/build/go_kart_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ben/rob-ws/install/go_kart_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ben/rob-ws/build/go_kart_controller/build --no-deps symlink_data
+[0.427s] running develop
+[0.497s] running egg_info
+[0.497s] creating go_kart_controller.egg-info
+[0.497s] writing go_kart_controller.egg-info/PKG-INFO
+[0.497s] writing dependency_links to go_kart_controller.egg-info/dependency_links.txt
+[0.497s] writing entry points to go_kart_controller.egg-info/entry_points.txt
+[0.497s] writing requirements to go_kart_controller.egg-info/requires.txt
+[0.497s] writing top-level names to go_kart_controller.egg-info/top_level.txt
+[0.497s] writing manifest file 'go_kart_controller.egg-info/SOURCES.txt'
+[0.498s] reading manifest file 'go_kart_controller.egg-info/SOURCES.txt'
+[0.498s] writing manifest file 'go_kart_controller.egg-info/SOURCES.txt'
+[0.499s] running build_ext
+[0.499s] Creating /home/ben/rob-ws/install/go_kart_controller/lib/python3.10/site-packages/go-kart-controller.egg-link (link to .)
+[0.499s] Installing display_node script to /home/ben/rob-ws/install/go_kart_controller/lib/go_kart_controller
+[0.499s] Installing udp_forwarder_node script to /home/ben/rob-ws/install/go_kart_controller/lib/go_kart_controller
+[0.500s] 
+[0.500s] Installed /home/ben/rob-ws/build/go_kart_controller
+[0.500s] running symlink_data
+[0.500s] creating /home/ben/rob-ws/install/go_kart_controller/share/ament_index
+[0.500s] creating /home/ben/rob-ws/install/go_kart_controller/share/ament_index/resource_index
+[0.500s] creating /home/ben/rob-ws/install/go_kart_controller/share/ament_index/resource_index/packages
+[0.500s] symbolically linking /home/ben/rob-ws/build/go_kart_controller/resource/go_kart_controller -> /home/ben/rob-ws/install/go_kart_controller/share/ament_index/resource_index/packages
+[0.500s] symbolically linking /home/ben/rob-ws/build/go_kart_controller/package.xml -> /home/ben/rob-ws/install/go_kart_controller/share/go_kart_controller
+[0.500s] creating /home/ben/rob-ws/install/go_kart_controller/share/go_kart_controller/launch
+[0.500s] symbolically linking /home/ben/rob-ws/build/go_kart_controller/launch/go_kart.launch.py -> /home/ben/rob-ws/install/go_kart_controller/share/go_kart_controller/launch
+[0.515s] Invoked command in '/home/ben/rob-ws/build/go_kart_controller' returned '0': PYTHONPATH=/home/ben/rob-ws/build/go_kart_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ben/rob-ws/install/go_kart_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ben/rob-ws/build/go_kart_controller/build --no-deps symlink_data

@@ -1,0 +1,4 @@
+[console_scripts]
+display_node = go_kart_controller.nodes.display_node:main
+udp_forwarder_node = go_kart_controller.nodes.udp_forwarder_node:main
+

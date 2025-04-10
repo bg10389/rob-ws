@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: go-kart-controller
+Version: 0.0.0
+Summary: A ROS2 package for the autonomous go-kart display and command nodes.
+Home-page: UNKNOWN
+Author: Your Name
+Author-email: your.email@example.com
+Maintainer: Your Name
+Maintainer-email: your.email@example.com
+License: Apache License 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+

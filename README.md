@@ -1,14 +1,14 @@
 # rob-ws
 rob workspace
-
+# PUT THE MAIN REPO FOLDER IN YOUR DESKTOP FOR THESE COMMANDS
 
 # 1. Source the ROS 2 Humble environment
 source /opt/ros/humble/setup.bash
 
-# 2. Change into your workspace root
-cd ~/path/to/ROB-WS
+# 2. Change into your workspace root on the Desktop
+cd ~/Desktop/ROB-WS
 
-# 3. (If this is your first build) install any missing dependencies
+# 3. Install any missing dependencies (first-time only)
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
 
